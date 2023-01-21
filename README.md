@@ -1,7 +1,7 @@
 # Habits
 
 App para usar como assistente de controle de hábitos.
--[  Visite o projeto online](buqueiroz.github.io/nlw-setup/)
+-[  Visite o projeto online](https://buqueiroz.github.io/nlw-setup/)
 
 
 
